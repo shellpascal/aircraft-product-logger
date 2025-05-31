@@ -1,0 +1,7 @@
+{
+  "name": "Aircraft Product Logger",
+  "description": "A web application to log and manage aircraft product records, including details, issues, and pictures. Data is stored locally using IndexedDB and the app functions offline thanks to a service worker.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
